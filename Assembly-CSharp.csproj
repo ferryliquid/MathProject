@@ -58,6 +58,25 @@
   <ItemGroup>
     <Compile Include="Assets\FacingManager.cs" />
     <Compile Include="Assets\MeshDrawer.cs" />
+    <Compile Include="Assets\Mini First Person Controller\Scripts\FirstPersonMovement.cs" />
+    <Compile Include="Assets\Mini First Person Controller\Scripts\FirstPersonLook.cs" />
+    <Compile Include="Assets\Mini First Person Controller\Scripts\Components\Jump.cs" />
+    <Compile Include="Assets\Mini First Person Controller\Scripts\Components\FirstPersonAudio.cs" />
+    <Compile Include="Assets\Mini First Person Controller\Scripts\Components\Crouch.cs" />
+    <Compile Include="Assets\Mini First Person Controller\Scripts\Components\GroundCheck.cs" />
+    <Compile Include="Assets\Mini First Person Controller\Scripts\Components\Zoom.cs" />
+    <Compile Include="Assets\TrajectoryPredictor\ExampleScenes\Scripts\LauncherFPS.cs" />
+    <Compile Include="Assets\TrajectoryPredictor\ExampleScenes\Scripts\RBFPSController.cs" />
+    <Compile Include="Assets\TrajectoryPredictor\ExampleScenes\Scripts\MouseOrbit.cs" />
+    <Compile Include="Assets\TrajectoryPredictor\ExampleScenes\Scripts\Launcher.cs" />
+    <Compile Include="Assets\TrajectoryPredictor\ExampleScenes\Scripts\LaunchDelayDestroy.cs" />
+    <Compile Include="Assets\TrajectoryPredictor\ExampleScenes\Scripts\Orbiter.cs" />
+    <Compile Include="Assets\TrajectoryPredictor\TrajectoryPredictor.cs" />
+    <Compile Include="Assets\TrajectoryPredictor\ExampleScenes\Scripts\Launcher2D.cs" />
+    <Compile Include="Assets\Shooter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\TrajectoryPredictor\README.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

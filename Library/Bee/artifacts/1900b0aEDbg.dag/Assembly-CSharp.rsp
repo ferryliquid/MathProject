@@ -353,6 +353,22 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/FacingManager.cs"
 "Assets/MeshDrawer.cs"
+"Assets/Mini First Person Controller/Scripts/Components/Crouch.cs"
+"Assets/Mini First Person Controller/Scripts/Components/FirstPersonAudio.cs"
+"Assets/Mini First Person Controller/Scripts/Components/GroundCheck.cs"
+"Assets/Mini First Person Controller/Scripts/Components/Jump.cs"
+"Assets/Mini First Person Controller/Scripts/Components/Zoom.cs"
+"Assets/Mini First Person Controller/Scripts/FirstPersonLook.cs"
+"Assets/Mini First Person Controller/Scripts/FirstPersonMovement.cs"
+"Assets/Shooter.cs"
+"Assets/TrajectoryPredictor/ExampleScenes/Scripts/LaunchDelayDestroy.cs"
+"Assets/TrajectoryPredictor/ExampleScenes/Scripts/Launcher.cs"
+"Assets/TrajectoryPredictor/ExampleScenes/Scripts/Launcher2D.cs"
+"Assets/TrajectoryPredictor/ExampleScenes/Scripts/LauncherFPS.cs"
+"Assets/TrajectoryPredictor/ExampleScenes/Scripts/MouseOrbit.cs"
+"Assets/TrajectoryPredictor/ExampleScenes/Scripts/Orbiter.cs"
+"Assets/TrajectoryPredictor/ExampleScenes/Scripts/RBFPSController.cs"
+"Assets/TrajectoryPredictor/TrajectoryPredictor.cs"
 -langversion:9.0
 
 /deterministic
